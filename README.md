@@ -2,7 +2,7 @@
 
 I'm Kei, known on the interwebs as `silikeite`. I'm a developer with eclectic interests, ranging from hardware design to ML to even cooking (let me cook) and music.
 
-I'm currently working as an Engineering Intern at Smartfox Data Solutions, and studying BS Electronics Engineering at University of the Philippines Diliman.
+I'm currently working as an Engineering Intern at Smartfox Data Solutions, and took BS Electronics Engineering at University of the Philippines Diliman.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silikeite&show_icons=true&locale=en&theme=dark" alt="silikeite" /></p>
 
