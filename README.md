@@ -2,7 +2,7 @@
 
 I'm Kei, known on the interwebs as `silikeite`. I'm a digital design engineer with 3 years of experience working in Verilog and with Linux drivers and environments. I also have an educational background in MEMS design and fabrication.
 
-I'm currently working as a Software Engineer at Bolt Graphics (@boltgraphicsinc [bolt.graphics](bolt.graphics)).
+I'm currently working as a Software Engineer at Bolt Graphics (@boltgraphicsinc [bolt.graphics](https://bolt.graphics)).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silikeite&show_icons=true&locale=en&theme=dark" alt="silikeite" /></p>
 
